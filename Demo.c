@@ -10,7 +10,9 @@ int checkPrime(int num);
 int countPrime(int a[],int n);
 int checkSquare(int num);
 int calcTotalSquare(int a[],int n);
-void sortArray(int a[],int n);void main(void)
+void sortArray(int a[],int n);
+
+void main(void)
 {
 //declare variable
 int arr[100];
